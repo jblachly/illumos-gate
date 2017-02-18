@@ -15,6 +15,7 @@
 # Copyright 2016 Joyent, Inc.
 # Copyright 2016 Hans Rosenfeld <rosenfeld@grumpf.hope-2000.org>
 # Copyright 2016 Nexenta Systems, Inc.
+# Copyright 2017 James S Blachly, MD <james.blachly@gmail.com>
 #
 
 include		$(SRC)/Makefile.master
@@ -54,6 +55,7 @@ _MANFILES=	aac.7d		\
 		fctl.7d		\
 		fd.7d		\
 		fp.7d		\
+		full.7d		\
 		gld.7d		\
 		hci1394.7d	\
 		hermon.7d	\

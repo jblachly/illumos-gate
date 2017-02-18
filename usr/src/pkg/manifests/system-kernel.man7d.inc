@@ -12,12 +12,14 @@
 #
 # Copyright 2011, Richard Lowe
 # Copyright 2016 Nexenta Systems, Inc.
+# Copyright 2017 James S Blachly, MD
 #
 
 file path=usr/share/man/man7d/bscv.7d
 file path=usr/share/man/man7d/console.7d
 file path=usr/share/man/man7d/cpuid.7d
 file path=usr/share/man/man7d/devinfo.7d
+file path=usr/share/man/man7d/full.7d
 file path=usr/share/man/man7d/gld.7d
 file path=usr/share/man/man7d/ipnet.7d
 file path=usr/share/man/man7d/kmdb.7d
